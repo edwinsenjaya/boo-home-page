@@ -10,6 +10,7 @@
   --color-foreground: var(--foreground);
   --font-roboto: var(--font-roboto);
   --shadow-glow: 0 0 15px rgba(255, 255, 255, 0.4);
+  --shadow-hover: 0 0 15px #4edcd8;
 }
 
 @media (prefers-color-scheme: dark) {
